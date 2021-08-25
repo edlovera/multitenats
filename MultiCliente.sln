@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiCliente", "MultiCliente\MultiCliente.csproj", "{2678DDEF-DC43-4AA2-A7E5-A4B18049D01E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2678DDEF-DC43-4AA2-A7E5-A4B18049D01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2678DDEF-DC43-4AA2-A7E5-A4B18049D01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2678DDEF-DC43-4AA2-A7E5-A4B18049D01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2678DDEF-DC43-4AA2-A7E5-A4B18049D01E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFB44F03-4EA0-48D8-9C30-648AA8425EC6}
+	EndGlobalSection
+EndGlobal
